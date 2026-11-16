@@ -107,10 +107,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 
     </div>
 
-    <p class="login-hint">
-        Initial account: <b>admin</b> / <b>Admin@12345</b><br>
-        Change this password after your first login.
-    </p>
+    
 
 </div>
 
