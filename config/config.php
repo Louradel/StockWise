@@ -6,7 +6,7 @@ define('BASE_URL', ''); // Keep empty when installed directly at /var/www/html.
 define('DB_HOST', 'localhost');
 define('DB_NAME', 'stockwise_db');
 define('DB_USER', 'stockwise_user');
-define('DB_PASS', 'CHANGE_THIS_DATABASE_PASSWORD');
+define('DB_PASS', '12345');
 
 if (session_status() === PHP_SESSION_NONE) {
     session_start();
